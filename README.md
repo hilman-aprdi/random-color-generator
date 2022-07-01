@@ -6,7 +6,7 @@ Sebuah program untuk meng-generate warna secara acak yang akan menghasilkan bebe
 - CSS
 - JavaScript
 
-#preview
-![This is an image](https://ibb.co/B6cF73C)
+# Preview
+![preview](https://i.ibb.co/fNqLKFx/20220701-191145.jpg)
 
 > Dibuat oleh Hilman Apriadi
