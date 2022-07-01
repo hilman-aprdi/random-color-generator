@@ -221,11 +221,6 @@ footer {
    color: #fff;
 }
 
-#gelap {
-   background: #152238;
-   height: 400px;
-}
-
 @media (min-width: 720px) {
    .result {
       grid-template-columns: repeat(3, 1fr);
