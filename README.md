@@ -9,5 +9,5 @@ Sebuah program untuk meng-generate warna secara acak yang akan menghasilkan bebe
 # Preview
 ![preview](https://i.ibb.co/fNqLKFx/20220701-191145.jpg)
 
-[Klik untuk mencoba](hilman-aprdi.github.io/random-color-generator)
+[Klik untuk mencoba](https://hilman-aprdi.github.io/random-color-generator)
 > Dibuat oleh Hilman Apriadi
