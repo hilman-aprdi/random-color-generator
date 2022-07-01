@@ -1,5 +1,5 @@
 # Random Color Generator
-Sebuah program untuk meng-generate warna secara acak yang akan menghasilkan beberapa warna acak sesuai dari jumlah nilai yang diinput
+Sebuah program untuk meng-generate warna secara acak yang akan menghasilkan beberapa warna acak sesuai dari jumlah nilai yang diinput dan juga akan menampilkan kode warna rgb
 
 # Dibuat dengan :
 - HTML
