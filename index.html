@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link
+         rel="stylesheet"
+         href="style/style.css"
+         type="text/css"
+         media="all"
+      />
+      <title>Random Color Generator</title>
+      <script src="https://wurfl.io/wurfl.js"></script>
+   </head>
+   <body>
+      <div class="topBox">
+         <div class="userInfo">
+            <div>
+               Battery :
+               <span class="percentage"
+                  ><span id="battery"><span id="number"></span></span
+               ></span>
+            </div>
+            <div id="device"></div>
+         </div>
+         <div class="right">
+            <span id="date">Day x Month Year xx:xx:xx</span>
+            <input type="checkbox" id="dark" />
+            <label for="dark">☀️</label>
+         </div>
+      </div>
+      <div class="cont">
+         <h1>RANDOM COLORS GENERATOR</h1>
+         <div class="input">
+            <button id="minus">-</button>
+            <input
+               type="number"
+               id="numPlace"
+               value="0"
+               onkeypress="if(this.value.length >= 2){return false;}"
+            />
+            <button id="add">+</button>
+         </div>
+         <button type="submit" id="btn">SUBMIT</button>
+         <div id="info">
+            <span id="out">0</span> Warna acak berhasil didapatkan
+         </div>
+         <div class="warnBox">
+            <p>nilai input harus kurang dari 100 dan lebih dari 0</p>
+         </div>
+         <div class="result"></div>
+      </div>
+      <footer><h5>@imhilman_</h5></footer>
+      <script type="text/javascript" src="script/script.js"></script>
+   </body>
+</html>
